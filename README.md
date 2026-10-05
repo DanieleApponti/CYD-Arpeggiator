@@ -1,5 +1,5 @@
 # CYD-Arpeggiator
-Arpeggiator CYD con AI Chrome
+Arpeggiator CYD con AI Chrome - out spk -
 
 • 1 Tocco: Avanza nel giro armonico (DoM ➡️ Lam ➡️ Rem ➡️ SolM).
 
