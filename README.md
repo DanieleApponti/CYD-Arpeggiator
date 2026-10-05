@@ -1,2 +1,2 @@
 # CYD-Arpeggiator
-Arpeggiator CYD 
+Arpeggiator CYD con AI Chrome
